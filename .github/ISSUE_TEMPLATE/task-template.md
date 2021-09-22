@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**Task Description**
+### Task Description
 What task needs to be done?
 
-**Task Outcome**
+### Task Outcome
 Why are we doing this? What will be the outcome?
 
-**Acceptance Criteria**
+### Acceptance Criteria
 - [ ] List of what needs to be completed.
 
-**Additional Notes**
+### Additional Notes

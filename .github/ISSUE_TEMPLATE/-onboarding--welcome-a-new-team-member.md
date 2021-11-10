@@ -46,11 +46,11 @@ Present checklist is here to help us track progress and completion of this.
 
 - [ ] GitHub Access [Contact: @wmoussa-cds  ]
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
-- [ ] Snyk (Dependency management) [Contact: @jimleroyer ]
-- [ ] Sentry (Error logging / debugging for staging) [Contact: @jimleroyer  ]
-- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [Contact: @maxneuvians ]
-- [ ] New Relic (Error logging / debugging for production) [Contact: @jimleroyer ]
-- [ ] Freshdesk Customer ticket support portal [Contact: @jimleroyer  / François Moisan** ]
+- [ ] Snyk (Dependency management) [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] Sentry (Error logging / debugging for staging) [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] New Relic (Error logging / debugging for production) [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] Freshdesk Customer ticket support portal [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Add to notifications-ops on Google
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Easy Retro **[Contact: Mario]**

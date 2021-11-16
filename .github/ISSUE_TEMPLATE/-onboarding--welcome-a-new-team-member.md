@@ -20,10 +20,11 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] [Overview of Notify product](https://docs.google.com/document/d/1naerXecHaMR6-udeYiny5a_84CvIKwITAlwR8ZwsIZY/edit#) 
 - [ ] [Notify Scavenger Hunt](https://docs.google.com/document/d/1MmKBZqMNpsLU0TlURGCyOlByZHGfZccteuYdGZ9amwM/edit#heading=h.sxqbcn4k0lmo)🕵️‍♀️
 - [ ] [Directory of links](https://docs.google.com/document/d/15dk3fz6BwX0_ZwHyCXMDYIWCszXSoFarqydKQNeeyx0/edit)
- - [ ] [Design onboarding cheatsheet](https://docs.google.com/document/d/1hWjtCQp1N6_EADquwbBAuJ37ZNdxHvfxMCEDtO1M--g/edit#heading=h.g3c6sgz3eiwh)
+- [ ] [Design onboarding cheatsheet](https://docs.google.com/document/d/1hWjtCQp1N6_EADquwbBAuJ37ZNdxHvfxMCEDtO1M--g/edit#heading=h.g3c6sgz3eiwh)
 - [ ] [Design documentation](https://docs.google.com/presentation/d/1gwK4b-R3izYsAh12MVWkFknWDR7URkxTPp1jHU9gULc/edit)
- - [ ] [Dev resources](https://docs.google.com/document/d/1Nd3tqUO48oQvc0Vkn6iaCv01w1AkjyWbfOG2ZrKwAtI/edit#heading=h.gsberul37syg)
- - [ ] [Notify com 101](https://docs.google.com/document/d/19cdOXloQ0bTZuJUidCuMqvOPD18djA_3CnVJdsecaXE/edit)
+- [ ] [Dev resources](https://docs.google.com/document/d/1Nd3tqUO48oQvc0Vkn6iaCv01w1AkjyWbfOG2ZrKwAtI/edit#heading=h.gsberul37syg)
+- [ ] [Notify com 101](https://docs.google.com/document/d/19cdOXloQ0bTZuJUidCuMqvOPD18djA_3CnVJdsecaXE/edit)
+- [ ] [30-something things to know about Notify](https://docs.google.com/document/d/1pNDfw--2kBPBOEx_9EVKCiLD0wTaC0rjticZv1sVtb8)
 
 # Meet and greet ☕️
 

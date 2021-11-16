@@ -1,8 +1,8 @@
 ---
 name: A11y issue
 about: Template for detailing a11y issues
-title: 'Name of page. Summary of issue'
-labels: 'Accessiblity | Accessibilité'
+title: Name of page. Summary of issue
+labels: Accessiblity | Accessibilité
 assignees: ''
 
 ---

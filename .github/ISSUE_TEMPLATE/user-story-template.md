@@ -23,6 +23,11 @@ _To be refined through discussion with the team_
 
 Given some context, when (X) action occurs, then (Y) outcome is achieved 
 
+If this user story emerged from User Research insights:
+- [ ] Link research insight back to hypothesis from Epic or Objective in Airtable
+- [ ] Once change/fix/feature is implemented, mark insight as "resolved" in Airtable
+- [ ] Once change/fix/feature is implements, link insight to design artifacts (Figma) in Airtable
+
 * A11y
 * Bilingualism
 * Privacy considerations

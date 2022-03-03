@@ -9,7 +9,7 @@ assignees: ''
 
 _Give your user story a simple, clear title_
 
-# Description
+## Description
 
 As a (user), I need to be able to do (X) so that I can achieve (Y) outcome. 
 
@@ -17,7 +17,7 @@ WHY are we building?
 WHAT are we building?
 VALUE created by our solution
 
-# Acceptance Criteria** (Definition of done) 
+## Acceptance Criteria** (Definition of done) 
 
 _To be refined through discussion with the team_
 

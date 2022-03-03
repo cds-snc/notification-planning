@@ -7,18 +7,19 @@ assignees: ''
 
 ---
 
-### Description of issue
+## Description of issue
 
 Describe what is failing
 - include what is failing
 - include an image
 - include context
 
-### Potential fix
+## Potential fix
 
 - What change could fix this issue?
 - What nuggets of information could help us fix the issue
 
-### Resources
+## Resources
+
 - Links to documentation or articles that could be helpful
 - examples: WCAG docs, ARIA docis, web.dev, Deque, Webaim...

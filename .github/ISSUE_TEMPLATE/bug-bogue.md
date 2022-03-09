@@ -11,6 +11,9 @@ assignees: ''
 
 A clear and concise description of what the bug is.
 
+## [Bug Severity] (URL)
+(SEV-1, SEV2, SEV3, SEV-4) 
+
 ## To Reproduce
 
 Steps to reproduce the behavior:
@@ -26,7 +29,15 @@ A clear and concise description of what you expected to happen.
 
 ## Impact
 
-Describe user/system impact to consider when prioritizing this issue.
+Describe overall user/system impact to consider when prioritizing this issue.
+
+If applicable
+
+Impact on Notify users:
+
+Impact on Recipients:
+
+Impact on Notify team: 
 
 ## Screenshots
 

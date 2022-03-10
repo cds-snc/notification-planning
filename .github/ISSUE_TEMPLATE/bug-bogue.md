@@ -11,7 +11,7 @@ assignees: ''
 
 A clear and concise description of what the bug is.
 
-## [Bug Severity] (URL)
+## [Bug Severity](https://docs.google.com/document/d/1tcD32bjJRaREsMgaUEoXAk400y1dKzzaKR0G5Sr1w20/edit)
 (SEV-1, SEV2, SEV3, SEV-4) 
 
 ## To Reproduce

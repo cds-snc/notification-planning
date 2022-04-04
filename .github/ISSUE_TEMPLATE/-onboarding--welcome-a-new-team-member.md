@@ -28,8 +28,8 @@ Present checklist is here to help us track progress and completion of this.
 
 # Meet and greet ☕️
 
-- [ ] Demo of the product with @stephenyates-cds  the product manager
-- [ ] Chat about general team dynamic and organisation with our team leader Leanne Labelle
+- [ ] Demo of the product with @yaelberger-commits the product manager
+- [ ] Chat about general team dynamic and organisation with our team leader @josh-cds
 - [ ] Chat with Lead Design @amazingphilippe 
 - [ ] Chat with Lead Researcher @adriannelee 
 - [ ] Chat with Notify Dev Lead @jimleroyer 
@@ -41,11 +41,10 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] Get Google Drive access [DM or PM]
 - [ ] Get Figma access [Designer @amazingphilippe ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
-- [ ] GitHub Access [Contact: @wmoussa-cds  ]
+- [ ] GitHub Access [Contact: Slack #sre-and-tech-ops]. Request to be added to your GitHub teams as well.
 
 # Access for Dev  ⌨️
 
-- [ ] GitHub Access [Contact: @wmoussa-cds  ]
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
 - [ ] Snyk (Dependency management) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Sentry (Error logging / debugging for staging) [ #zendesk-it-support or /zendesk Slack command ]

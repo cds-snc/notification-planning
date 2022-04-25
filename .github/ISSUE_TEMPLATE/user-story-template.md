@@ -36,4 +36,4 @@ If this user story emerged from User Research insights:
 
 ## QA Steps
 
-- [ ] Tested in a realistic production scenario 
+- [ ] Tested in a realistic production scenario

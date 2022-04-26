@@ -25,6 +25,8 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] [Dev resources](https://docs.google.com/document/d/1Nd3tqUO48oQvc0Vkn6iaCv01w1AkjyWbfOG2ZrKwAtI/edit#heading=h.gsberul37syg)
 - [ ] [Notify com 101](https://docs.google.com/document/d/19cdOXloQ0bTZuJUidCuMqvOPD18djA_3CnVJdsecaXE/edit)
 - [ ] [30-something things to know about Notify](https://docs.google.com/document/d/1pNDfw--2kBPBOEx_9EVKCiLD0wTaC0rjticZv1sVtb8)
+- [ ] [Story point estimation](https://drive.google.com/drive/folders/1XsaIgkZNUEluFmhAW5azaevzPjKfOGdC)
+- [ ] [Notify policy 101](https://docs.google.com/presentation/d/1A_0CAcORZI0vB_if3L53IzEJwr8cr0N8aJ5UmtWXwHc/edit#slide=id.p)
 
 # Meet and greet ☕️
 

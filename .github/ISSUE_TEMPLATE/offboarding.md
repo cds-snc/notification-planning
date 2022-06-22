@@ -42,6 +42,7 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] Remove platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Remove GitHub Access [Contact: Slack #sre-and-tech-ops]. Request to be removed from GitHub teams as well
 - [ ] Remove Zenhub Access [Contact: PM]
+- [ ] Remove Airtable Access [Contact: @adriannelee]
 
 
 # Revoke access for Dev  ⌨️

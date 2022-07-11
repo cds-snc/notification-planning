@@ -13,6 +13,7 @@ A clear and concise description of what the bug is. Include which part of Notify
 
 ## [Bug Severity](https://docs.google.com/document/d/1tcD32bjJRaREsMgaUEoXAk400y1dKzzaKR0G5Sr1w20/edit)
 See examples in the documentation
+
 (SEV-1 Critical, SEV-2 Major, SEV-3 Minor, SEV-4 Low) 
 
 ## To Reproduce

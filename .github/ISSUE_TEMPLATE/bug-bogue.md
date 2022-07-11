@@ -9,10 +9,10 @@ assignees: ''
 
 ## Describe the bug 
 
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Include which part of Notify is affected (admin, staging, prod, API, utils, etc.)
 
-## [Bug Severity](https://docs.google.com/document/d/1tcD32bjJRaREsMgaUEoXAk400y1dKzzaKR0G5Sr1w20/edit)
-(SEV-1, SEV2, SEV3, SEV-4) 
+## [Bug Severity](https://docs.google.com/document/d/1tcD32bjJRaREsMgaUEoXAk400y1dKzzaKR0G5Sr1w20/edit)See examples in the documentation
+(SEV-1 Critical, SEV-2 Major, SEV-3 Minor, SEV-4 Low) 
 
 ## To Reproduce
 

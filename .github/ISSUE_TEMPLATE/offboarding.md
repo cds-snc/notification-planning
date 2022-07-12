@@ -43,6 +43,7 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] Remove GitHub Access [Contact: Slack #sre-and-tech-ops]. Request to be removed from GitHub teams as well
 - [ ] Remove Zenhub Access [Contact: PM]
 - [ ] Remove Airtable Access [Contact: @adriannelee]
+- [ ] Remove GC Articles Access [Contact: @amazingphilippe]
 
 
 # Revoke access for Dev  ⌨️

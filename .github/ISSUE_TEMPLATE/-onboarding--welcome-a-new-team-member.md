@@ -51,6 +51,7 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] Snyk (Dependency management) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Sentry (Error logging / debugging for staging) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Freshdesk Customer ticket support portal [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Add to notifications-ops on Google

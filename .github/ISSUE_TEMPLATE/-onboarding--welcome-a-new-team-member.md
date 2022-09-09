@@ -53,6 +53,6 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] New Relic (Error logging / debugging for production) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Freshdesk Customer ticket support portal [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] Add to notifications-ops on Google
+- [ ] Get on the Notification Google group to recieve notification-ops emails [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Easy Retro **[Contact: Mario]**

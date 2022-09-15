@@ -23,6 +23,9 @@ _To be refined through discussion with the team_
 
 Given some context, when (X) action occurs, then (Y) outcome is achieved 
 
+- [ ] Generate appropriate log messages so that executions of this feature can be tracked
+- [ ] Can misuse of this feature cause harm? If yes, create an alert
+
 If this user story emerged from User Research insights:
 - [ ] Link research insight back to hypothesis from Epic or Objective in Airtable
 - [ ] Once change/fix/feature is implemented, mark insight as "resolved" in Airtable

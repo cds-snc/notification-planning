@@ -53,7 +53,7 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ Contact SRE team on Slack #sre-and-tech-ops channel ]
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
-- [ ] Freshdesk Customer ticket support portal [ Slack msg Wissam M. or Ramya S. ]
+- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Wissam M. or Ramya S. ]
 - [ ] Add to Notification Google group [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Easy Retro **[Contact: Mario]**

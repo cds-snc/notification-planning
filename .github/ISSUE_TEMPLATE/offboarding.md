@@ -22,7 +22,7 @@ Here are some tasks to go through and access that needs to be revoked as you off
 
 Present checklist is here to help us track progress and completion of this.
 
-**Done when** :  PM has checked that all access has been revoked and all documentation, respsonsibilities have been transferred, and [audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated.
+**Done when** :  PM has checked that all access has been revoked and all documentation, responsibilities have been transferred, the [audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated with new grants and the onboarding task revised with updated roles.
 
 #  Transfer files and meetings 
 

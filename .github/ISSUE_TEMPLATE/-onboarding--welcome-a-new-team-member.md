@@ -13,7 +13,7 @@ Here are some tasks to go through that should help you get to know the team and 
 
 Present checklist is here to help us track progress and completion of this.
 
-**Done when** :  New team member says so ! Should have had the time to digest info, connect with team and the access needed are granted 
+**Done when** :  New team member says so ! Should have had the time to digest info, connect with team and the access needed are granted, **and [audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated**.
 
 #  Read and discover **(the following are suggested in order of priority. Reading all of it is not mandatory)**
 
@@ -32,28 +32,26 @@ Present checklist is here to help us track progress and completion of this.
 
 - [ ] Demo of the product with @yaelberger-commits the product manager
 - [ ] Chat about general team dynamic and organisation with our team leader @josh-cds
-- [ ] Chat with Lead Design @amazingphilippe 
+- [ ] Chat with Lead Design @adriannelee
 - [ ] Chat with Lead Researcher @adriannelee 
-- [ ] Chat with Notify Dev Lead @jimleroyer 
+- [ ] Chat with Notify Dev Leads @jimleroyer, @jzbahrai
 
 # Get the access 👀
 
 - [ ] Get Slack channel access [DM or PM]
 - [ ] Get Trello access [DM or PM]
 - [ ] Get Google Drive access [DM or PM]
-- [ ] Get Figma access [Designer @amazingphilippe ]
+- [ ] Get Figma access [Designer @adriannelee ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] GitHub Access [Contact: Slack #sre-and-tech-ops]. Request to be added to your GitHub teams as well.
 
 # Access for Dev  ⌨️
 
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
-- [ ] Snyk (Dependency management) [ Contact SRE team on Slack #sre-and-tech-ops channel ]
-- [ ] Sentry (Error logging / debugging for staging) [ Slack msg @jimleroyer ]
 - [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ Contact SRE team on Slack #sre-and-tech-ops channel ]
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
-- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Wissam M. or Ramya S. ]
+- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince or Ramya S. ]
 - [ ] Get on the Notification Google group to receive notification-ops emails [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Easy Retro **[Contact: Mario]**

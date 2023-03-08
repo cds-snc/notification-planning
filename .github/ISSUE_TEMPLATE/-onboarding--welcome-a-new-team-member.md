@@ -48,11 +48,12 @@ Present checklist is here to help us track progress and completion of this.
 # Access for Dev  ⌨️
 
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
-- [ ] Snyk (Dependency management) [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] Sentry (Error logging / debugging for staging) [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] New Relic (Error logging / debugging for production) [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] Freshdesk Customer ticket support portal [ #zendesk-it-support or /zendesk Slack command ]
+- [ ] Snyk (Dependency management) [ Contact SRE team on Slack #sre-and-tech-ops channel ]
+- [ ] Sentry (Error logging / debugging for staging) [ Slack msg @jimleroyer ]
+- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ Contact SRE team on Slack #sre-and-tech-ops channel ]
+- [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
+- [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
+- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Wissam M. or Ramya S. ]
 - [ ] Get on the Notification Google group to receive notification-ops emails [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] Easy Retro **[Contact: Mario]**

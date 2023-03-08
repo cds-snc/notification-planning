@@ -32,7 +32,7 @@ Present checklist is here to help us track progress and completion of this.
 
 - [ ] Demo of the product with @yaelberger-commits the product manager
 - [ ] Chat about general team dynamic and organisation with our team leader @josh-cds
-- [ ] Chat with Lead Design @amazingphilippe 
+- [ ] Chat with Lead Design @adriannelee
 - [ ] Chat with Lead Researcher @adriannelee 
 - [ ] Chat with Notify Dev Leads @jimleroyer, @jzbahrai
 
@@ -41,7 +41,7 @@ Present checklist is here to help us track progress and completion of this.
 - [ ] Get Slack channel access [DM or PM]
 - [ ] Get Trello access [DM or PM]
 - [ ] Get Google Drive access [DM or PM]
-- [ ] Get Figma access [Designer @amazingphilippe ]
+- [ ] Get Figma access [Designer @adriannelee ]
 - [ ] Get platform admin access [Dev lead contact: @jimleroyer ]
 - [ ] GitHub Access [Contact: Slack #sre-and-tech-ops]. Request to be added to your GitHub teams as well.
 

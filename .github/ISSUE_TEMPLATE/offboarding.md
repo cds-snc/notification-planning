@@ -22,7 +22,7 @@ Here are some tasks to go through and access that needs to be revoked as you off
 
 Present checklist is here to help us track progress and completion of this.
 
-**Done when** :  PM has checked that all access has been revoked and all documentation, respsonsibilities have been transferred 
+**Done when** :  PM has checked that all access has been revoked and all documentation, respsonsibilities have been transferred, and [audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated.
 
 #  Transfer files and meetings 
 
@@ -49,8 +49,6 @@ Present checklist is here to help us track progress and completion of this.
 # Revoke access for Dev  ⌨️
 
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
-- [ ] Snyk (Dependency management) [ #zendesk-it-support or /zendesk Slack command ]
-- [ ] Sentry (Error logging / debugging for staging) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] New Relic (Error logging / debugging for production) [ #zendesk-it-support or /zendesk Slack command ]
 - [ ] Freshdesk Customer ticket support portal [ #zendesk-it-support or /zendesk Slack command ]

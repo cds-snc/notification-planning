@@ -48,7 +48,7 @@ Present checklist is here to help us track progress and completion of this.
 # Access for Dev  ⌨️
 
 - [ ] LastPass and shared Notify folders inside of it (Staging and prod credentials, environment variables for running the repo locally) [**Contact**: @jimleroyer ]
-- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management [ Contact SRE team on Slack #sre-and-tech-ops channel ]
+- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management - [create a ticket with SRE](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
 - [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince or Ramya S. ]

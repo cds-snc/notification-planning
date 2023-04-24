@@ -14,6 +14,10 @@ WHY are we building?
 WHAT are we building?
 VALUE created by our solution
 
+## Documenation and Artifacts
+
+Good docs, figma mockups, ADRs, screenshots etc.
+
 ## Acceptance Criteria
 Given some context, when (X) action occurs, then (Y) outcome is achieved 
 
@@ -33,3 +37,4 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 
 ## QA Steps
 - [ ] Tested in a realistic production scenario
+

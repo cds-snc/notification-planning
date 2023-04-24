@@ -1,4 +1,4 @@
-# notification-planning
-Project planning for GC Notify Team
+# notification-planning-app
+Project planning for GC Notify App Team
  
  

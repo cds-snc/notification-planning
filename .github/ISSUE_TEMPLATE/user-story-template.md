@@ -14,7 +14,7 @@ WHY are we building?
 WHAT are we building?
 VALUE created by our solution
 
-## Documenation and Artifacts
+## Documentation and Artifacts
 
 Good docs, figma mockups, ADRs, screenshots etc.
 

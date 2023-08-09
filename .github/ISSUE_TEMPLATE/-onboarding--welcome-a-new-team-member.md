@@ -64,4 +64,5 @@ _Delete section if not a dev_
 - [ ] Platform admin @jimleroyer or @jzbahrai
 
 # Done when
-New team member says so! Should have had the time to digest info, connect with team and the access needed are granted, **and [audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated**.
+- [ ] New team member says so! Take the week to digest these items. Don't feel pressured to contribute during your onboarding.
+- [ ] [Audit document](https://docs.google.com/spreadsheets/d/1nqRmotJvNY_ftNwr5R7_tk2HKrveNRBA-R77kNTU-FM/edit#gid=0) has been updated

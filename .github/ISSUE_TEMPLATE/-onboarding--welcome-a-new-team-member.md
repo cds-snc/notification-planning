@@ -28,16 +28,20 @@ Read through these links and check off items.
 ## Dive deeper
 _Optional: Check off what is relevant to your work_
 - [ ] [Design](https://docs.google.com/document/d/1hWjtCQp1N6_EADquwbBAuJ37ZNdxHvfxMCEDtO1M--g/edit#heading=h.g3c6sgz3eiwh)
-- [ ] [Policy](https://docs.google.com/presentation/d/1A_0CAcORZI0vB_if3L53IzEJwr8cr0N8aJ5UmtWXwHc/edit#slide=id.p)
+- [ ] [Policy](https://docs.google.com/document/d/1IY5YiG6OWFfgi8JmU6ACHIJsCmBCu-6IpEwbx2cSE_8/edit#heading=h.w5uj4tt9uwer)
 - [ ] [Dev](https://docs.google.com/document/d/1Nd3tqUO48oQvc0Vkn6iaCv01w1AkjyWbfOG2ZrKwAtI/edit#heading=h.gsberul37syg)
+- [ ] [Anyone - Service-Level Agreement for GC Notify](https://docs.google.com/document/d/1JAuWT6XwYUFRetSFffcfCJOuUryW1D8yPeAa4NkWWgs/edit#heading=h.pbh32eniyzdc)
 
 # Meet and greet ☕️
 - [ ] Demo of the product with @yaelberger-commits the product manager
 - [ ] Chat about general team dynamic and organisation with our team leader @foudamo
+
+Meet and greets with discipline leads to learn how your work might be related to their work
 - [ ] Chat with Lead Design @amazingphilippe
 - [ ] Chat with Lead Researcher @adriannelee 
 - [ ] Chat with Notify Dev Leads @jimleroyer, @jzbahrai
-- [ ] Chat with Acting Head of Notify @mcman12
+- [ ] Head of Notify @josh-cds
+- [ ] Senior Policy Advisor @mtoutloff 
 
 # Get access 👀
 - [ ] Slack channels, ask @foudamo

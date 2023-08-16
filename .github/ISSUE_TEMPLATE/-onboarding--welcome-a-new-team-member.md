@@ -51,6 +51,7 @@ Meet and greets with discipline leads to learn how your work might be related to
   - [ ] #notify-dev
   - [ ] #notify-team
   - [ ] #notify-dev-team
+  - [ ] #notify-team-app
   - [ ] #notify-team-core
   - [ ] #notification-ops
   - [ ] #notification-staging-ops

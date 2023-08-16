@@ -44,7 +44,16 @@ Meet and greets with discipline leads to learn how your work might be related to
 - [ ] Senior Policy Advisor @mtoutloff 
 
 # Get access 👀
-- [ ] Slack channels, ask @foudamo
+- [ ] Slack channels as appropriate, ask @foudamo
+  - [ ] #notify
+  - [ ] #notify-community
+  - [ ] #notify-support
+  - [ ] #notify-dev
+  - [ ] #notify-team
+  - [ ] #notify-dev-team
+  - [ ] #notify-team-core
+  - [ ] #notification-ops
+  - [ ] #notification-staging-ops
 - [ ] Zenhub board, ask @foudamo
 - [ ] Miro, ask @adriannelee
 - [ ] Google Drive, ask anyone on the team

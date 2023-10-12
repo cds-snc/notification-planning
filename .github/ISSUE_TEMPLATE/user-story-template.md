@@ -19,6 +19,7 @@ Good docs, figma mockups, ADRs, screenshots etc.
 ## Acceptance Criteria
 Given some context, when (X) action occurs, then (Y) outcome is achieved 
 
+- [ ] Cypress UI tests if needed.
 - [ ] Generate appropriate log messages so that executions of this feature can be tracked
 - [ ] Can misuse of this feature cause harm? If yes, create an alert
 - [ ] Update the status of related findings, insights, and hypotheses on the Research Airtable

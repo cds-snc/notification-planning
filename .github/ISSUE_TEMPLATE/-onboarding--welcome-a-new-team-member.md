@@ -21,6 +21,7 @@ Read through these links and check off items.
 - [ ] [Story point estimation](https://drive.google.com/file/d/1d2offGEmop4dMZFrCQGPKPqMNoK7n9NW/view)
 - [ ] [Team rituals](https://docs.google.com/document/d/1h4kTrfP257J4QVeSPNAr2-tgV-SM2BbyBbNTUb3WPdc/edit)
 - [ ] [Types of documentation](https://docs.google.com/spreadsheets/d/1sondKNE4bBRN8D6CEYx138vpHVojfOsO71mAz6qGwqs/edit#gid=0)
+- [ ] [System status page posting instructions and templates](https://docs.google.com/document/d/1Y636QM_tmN1Q5KjoONSizTvcmAgJMeD293QPmN7KFBY/edit#heading=h.igfg49qfvoi2)
 
 ## Learn about stakeholders
 - [ ] [Platform business unit - Strategy 2022-23](https://docs.google.com/presentation/u/0/d/1TWAi89DsG696pT4bmZV54Mjn_KP0TzP9R6_elkUDbqU/edit)

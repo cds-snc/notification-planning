@@ -81,8 +81,8 @@ _Delete section if not a dev_
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
 - [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince ]
-- [ ] Get on the Notification Google group to receive notification-ops emails [In Slack: /Create ticket, to open a happy fox ticket and request access]
-- [ ] GCNotify Platform admin @jimleroyer or @jzbahrai
+- [ ] Get on the `Notification` Google group to receive the ops related emails [Ask @jimleroyer or @jzbahrai or @yaelberger-commits to add you [via this link](https://groups.google.com/a/cds-snc.ca/g/notification/members)]
+- [ ] [GCNotify Platform admin](https://notification.canada.ca/) @jimleroyer or @jzbahrai
 
 # Done when
 

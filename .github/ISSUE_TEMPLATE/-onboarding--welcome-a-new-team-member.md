@@ -77,7 +77,7 @@ Meet and greets with discipline leads to learn how your work might be related to
 _Delete section if not a dev_
 
 - [ ] 1password and its Notify shared folders (staging and prod credentials, environment variables for running the repo locally) [In Slack: /Create ticket, to open a happy fox ticket and request access]
-- [ ] AWS access [create a ticket with SRE: request access for GCNotify stagign and production environments along with a scratch account for sandbox testing](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
+- [ ] AWS access [create a ticket with SRE: request access for GCNotify staging and production environments along with a scratch account for sandbox testing](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
 - [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince ]

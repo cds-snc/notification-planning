@@ -77,12 +77,13 @@ Meet and greets with discipline leads to learn how your work might be related to
 _Delete section if not a dev_
 
 - [ ] 1password and its Notify shared folders (staging and prod credentials, environment variables for running the repo locally) [In Slack: /Create ticket, to open a happy fox ticket and request access]
-- [ ] AWS (staging and production accounts) Error log monitoring ; S3 buckets for asset management - [create a ticket with SRE](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
+- [ ] AWS access [create a ticket with SRE: request access for GCNotify staging and production environments along with a scratch account for sandbox testing](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
 - [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince ]
-- [ ] Get on the Notification Google group to receive notification-ops emails [In Slack: /Create ticket, to open a happy fox ticket and request access]
-- [ ] GCNotify Platform admin @jimleroyer or @jzbahrai
+- [ ] Get on the `Notification` Google group to receive the ops related emails [Ask @jimleroyer or @jzbahrai or @yaelberger-commits to add you [via this link](https://groups.google.com/a/cds-snc.ca/g/notification/members)]
+- [ ] [GCNotify Platform admin](https://notification.canada.ca/) @jimleroyer or @jzbahrai
+- [ ] Git clone the following GitHub repositories which are core to our stack: [notification-api](https://github.com/cds-snc/notification-api), [notification-admin](https://github.com/cds-snc/notification-admin), [notification-utils](https://github.com/cds-snc/notification-utils), [notification-attic](https://github.com/cds-snc/notification-attic), [notification-document-download-api](https://github.com/cds-snc/notification-document-download-api), [notification-terraform](https://github.com/cds-snc/notification-terraform), [notification-manifests](https://github.com/cds-snc/notification-manifests/), [notification-documentation](https://github.com/cds-snc/notification-documentation). There are others which might not be vital at this point in time.
 
 # Done when
 

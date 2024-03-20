@@ -25,6 +25,7 @@ Read through these links and check off items.
 - [ ] [Story point estimation](https://drive.google.com/file/d/1d2offGEmop4dMZFrCQGPKPqMNoK7n9NW/view)
 - [ ] [Team rituals](https://docs.google.com/document/d/1h4kTrfP257J4QVeSPNAr2-tgV-SM2BbyBbNTUb3WPdc/edit)
 - [ ] [Types of documentation](https://docs.google.com/spreadsheets/d/1sondKNE4bBRN8D6CEYx138vpHVojfOsO71mAz6qGwqs/edit#gid=0)
+- [ ] [Research repository walkthrough](https://drive.google.com/file/d/19Fruwh3w0aT5Mh-juMv_QEYLaNvQSgSv/view?usp=sharing)
 
 ## Learn about stakeholders
 
@@ -46,7 +47,6 @@ _Optional: Check off what is relevant to your work_
 Meet and greets with discipline leads to learn how your work might be related to their work.
 
 - [ ] Chat with Lead Design @amazingphilippe
-- [ ] Chat with Lead Researcher @adriannelee 
 - [ ] Chat with Notify Dev Leads @jimleroyer, @jzbahrai
 - [ ] Head of Notify @josh-cds
 - [ ] Senior Policy Advisor @mtoutloff 
@@ -70,7 +70,7 @@ Meet and greets with discipline leads to learn how your work might be related to
 - [ ] Figma, ask @amazingphilippe
 - [ ] GitHub [Contact: Slack #sre-and-tech-ops]. Request to be added to your GitHub teams as well.
 - [ ] Easy Retro, ask @mcman12
-- [ ] Research repository, ask @adriannelee
+- [ ] [Research repository](https://airtable.com/appWwAmHwDLtpIyko/tblVTvPCVqdet114A/viwJaOndL8PAQhyPt?blocks=hide), ask @amazingphilippe
 
 # Access for Dev  ⌨️
 

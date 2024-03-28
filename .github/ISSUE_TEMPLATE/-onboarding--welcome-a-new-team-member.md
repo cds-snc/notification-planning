@@ -85,7 +85,7 @@ _Delete section if not a dev_
 - [ ] [GCNotify Platform admin](https://notification.canada.ca/) @jimleroyer or @jzbahrai
 - [ ] Git clone the following GitHub repositories which are core to our stack: [notification-api](https://github.com/cds-snc/notification-api), [notification-admin](https://github.com/cds-snc/notification-admin), [notification-utils](https://github.com/cds-snc/notification-utils), [notification-attic](https://github.com/cds-snc/notification-attic), [notification-document-download-api](https://github.com/cds-snc/notification-document-download-api), [notification-terraform](https://github.com/cds-snc/notification-terraform), [notification-manifests](https://github.com/cds-snc/notification-manifests/), [notification-documentation](https://github.com/cds-snc/notification-documentation). There are others which might not be vital at this point in time.
 
-## Install Command Line Tools (Core)
+## Install Useful Tools (Core)
 
 - [ ] [Homebrew](https://brew.sh/)
 - [ ] [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)

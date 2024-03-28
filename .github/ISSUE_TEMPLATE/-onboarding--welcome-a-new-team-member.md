@@ -85,6 +85,16 @@ _Delete section if not a dev_
 - [ ] [GCNotify Platform admin](https://notification.canada.ca/) @jimleroyer or @jzbahrai
 - [ ] Git clone the following GitHub repositories which are core to our stack: [notification-api](https://github.com/cds-snc/notification-api), [notification-admin](https://github.com/cds-snc/notification-admin), [notification-utils](https://github.com/cds-snc/notification-utils), [notification-attic](https://github.com/cds-snc/notification-attic), [notification-document-download-api](https://github.com/cds-snc/notification-document-download-api), [notification-terraform](https://github.com/cds-snc/notification-terraform), [notification-manifests](https://github.com/cds-snc/notification-manifests/), [notification-documentation](https://github.com/cds-snc/notification-documentation). There are others which might not be vital at this point in time.
 
+## Install Command Line Tools (Core)
+
+- [ ] [Homebrew](https://brew.sh/)
+- [ ] [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- [ ] [Terragrunt](https://terragrunt.gruntwork.io/docs/getting-started/install/#install-via-a-package-manager)
+- [ ] [Docker](https://docs.docker.com/desktop/install/mac-install/)
+- [ ] [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/)
+- [ ] [Postman](https://www.postman.com/downloads/)
+- [ ] [K9S](https://k9scli.io/topics/install/)
+
 # Done when
 
 - [ ] New team member says so! Take the week to digest these items. Don't feel pressured to contribute during your onboarding.

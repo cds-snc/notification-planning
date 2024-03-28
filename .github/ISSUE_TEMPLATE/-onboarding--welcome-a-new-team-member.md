@@ -95,6 +95,7 @@ _Delete section if not a dev_
 - [ ] [Postman](https://www.postman.com/downloads/)
 - [ ] [K9S](https://k9scli.io/topics/install/)
 - [ ] [AWS ECR Docker Credential Helper](https://github.com/awslabs/amazon-ecr-credential-helper)
+      
 # Done when
 
 - [ ] New team member says so! Take the week to digest these items. Don't feel pressured to contribute during your onboarding.

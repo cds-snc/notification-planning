@@ -32,7 +32,7 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 * Measuring success and metrics
 
 ## Related [Research Airtable](https://airtable.com/appWwAmHwDLtpIyko/tbl38n7ofWYBuezFc/viwQUX3tUxbMxYS7C?blocks=hide) records
-- (Ping Adrianne to add stuff here or find stuff yourself)
+- (find stuff yourself)
 
 ## QA Steps
 - [ ] Tested in a realistic production scenario

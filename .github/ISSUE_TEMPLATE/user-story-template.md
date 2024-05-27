@@ -24,7 +24,7 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 - [ ] Can misuse of this feature cause harm? If yes, create an alert
 - [ ] Update the status of related findings, insights, and hypotheses on the Research Airtable
 - [ ] Once change/fix/feature is implemented, link relevant Airtable records to design artifacts (Figma)
-- [ ] Does the feature change our IA? If so, update the Sitemap in En/Fr
+- [ ] Does the feature change our Information Architecture? If so, update the Sitemap in En/Fr
 
 * A11y
 * Bilingualism

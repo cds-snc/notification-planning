@@ -49,4 +49,3 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 - [ ]  On staging: Check links, images and language toggle
 - [ ]  Give a heads up to the app-team channel once ready to publish
 - [ ]  On staging and production: Clear the cache through GC Notify's admin panel
-- [ ]  Clear Cloudfront cache in GCA as needed (Andrew and Phil are GCA admins)

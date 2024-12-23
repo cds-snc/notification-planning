@@ -42,7 +42,6 @@ _Optional: Check off what is relevant to your work_
 # Meet and greet ☕️
 
 - [ ] Demo of the product with @yaelberger-commits the product manager
-- [ ] Chat about general team dynamic and organisation with our team leader @foudamo
 
 Meet and greets with discipline leads to learn how your work might be related to their work.
 
@@ -53,7 +52,7 @@ Meet and greets with discipline leads to learn how your work might be related to
 
 # Get access 👀
 
-- [ ] Slack channels as appropriate, ask @foudamo
+- [ ] Slack channels as appropriate
   - [ ] #notify
   - [ ] #notify-community
   - [ ] #notify-support
@@ -64,12 +63,13 @@ Meet and greets with discipline leads to learn how your work might be related to
   - [ ] #notify-team-core
   - [ ] #notification-ops
   - [ ] #notification-staging-ops
-- [ ] Zenhub board, ask @foudamo
-- [ ] Miro, ask @adriannelee
+  - [ ] #notification-dev-ops
+- [ ] Zenhub board, access via Google SSO
+- [ ] Miro, access via Google SSO
 - [ ] Google Drive, ask anyone on the team
-- [ ] Figma, ask @amazingphilippe
+- [ ] Figma, access via Google SSO
 - [ ] GitHub [Contact: Slack #sre-and-tech-ops]. Request to be added to your GitHub teams as well.
-- [ ] Easy Retro, ask @mcman12
+- [ ] Easy Retro, access via Google SSO
 - [ ] [Research repository](https://airtable.com/appWwAmHwDLtpIyko/tblVTvPCVqdet114A/viwJaOndL8PAQhyPt?blocks=hide), ask @amazingphilippe
 
 # Access for Dev  ⌨️
@@ -80,7 +80,7 @@ _Delete section if not a dev_
 - [ ] AWS access [create a ticket with SRE: request access for GCNotify staging and production environments along with a scratch account for sandbox testing](https://github.com/cds-snc/site-reliability-engineering/issues/new/choose)
 - [ ] [AWS CLI setup](https://docs.google.com/document/d/18w44esbq00JClsvHvlcrSiEnolCIlV5n-YKdVsq6bJk/edit)
 - [ ] New Relic (Error logging / debugging for production) [ Slack msg @jimleroyer ]
-- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ Slack msg Jimmy Prince ]
+- [ ] Freshdesk Customer ticket support portal. Make sure the account is linked to the Notify team in Freshdesk. [ access via Google SSO ]
 - [ ] Get on the `Notification` Google group to receive the ops related emails [Ask @jimleroyer or @jzbahrai or @yaelberger-commits to add you [via this link](https://groups.google.com/a/cds-snc.ca/g/notification/members)]
 - [ ] [GCNotify Platform admin](https://notification.canada.ca/) @jimleroyer or @jzbahrai
 - [ ] Git clone the following GitHub repositories which are core to our stack: [notification-api](https://github.com/cds-snc/notification-api), [notification-admin](https://github.com/cds-snc/notification-admin), [notification-utils](https://github.com/cds-snc/notification-utils), [notification-attic](https://github.com/cds-snc/notification-attic), [notification-document-download-api](https://github.com/cds-snc/notification-document-download-api), [notification-terraform](https://github.com/cds-snc/notification-terraform), [notification-manifests](https://github.com/cds-snc/notification-manifests/), [notification-documentation](https://github.com/cds-snc/notification-documentation). There are others which might not be vital at this point in time.

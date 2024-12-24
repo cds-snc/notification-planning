@@ -42,7 +42,6 @@ _Optional: Check off what is relevant to your work_
 # Meet and greet ☕️
 
 - [ ] Demo of the product with @yaelberger-commits the product manager
-- [ ] Chat about general team dynamic and organisation with our team leader @foudamo
 
 Meet and greets with discipline leads to learn how your work might be related to their work.
 
@@ -53,7 +52,7 @@ Meet and greets with discipline leads to learn how your work might be related to
 
 # Get access 👀
 
-- [ ] Slack channels as appropriate, ask @foudamo
+- [ ] Slack channels as appropriate
   - [ ] #notify
   - [ ] #notify-community
   - [ ] #notify-support
@@ -64,7 +63,7 @@ Meet and greets with discipline leads to learn how your work might be related to
   - [ ] #notify-team-core
   - [ ] #notification-ops
   - [ ] #notification-staging-ops
-- [ ] Zenhub board, ask @foudamo
+- [ ] Zenhub board
 - [ ] Miro, ask @adriannelee
 - [ ] Google Drive, ask anyone on the team
 - [ ] Figma, ask @amazingphilippe

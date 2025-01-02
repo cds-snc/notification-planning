@@ -29,7 +29,7 @@ Read through these links and check off items.
 
 ## Learn about stakeholders
 
-- [ ] [Platform business unit - Strategy 2022-23](https://docs.google.com/presentation/u/0/d/1TWAi89DsG696pT4bmZV54Mjn_KP0TzP9R6_elkUDbqU/edit)
+- [ ] [Platform Strategy FY24-25](https://docs.google.com/presentation/d/1I79v_vi-Riz5mM0O6-Hj6gBjz4iFhxl5bBPv1KhNV64/edit)
 
 ## Dive deeper
 

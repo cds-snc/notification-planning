@@ -23,3 +23,7 @@ Describe what is failing
 
 - Links to documentation or articles that could be helpful
 - examples: WCAG docs, ARIA docis, web.dev, Deque, Webaim...
+
+## Acceptance Criteria
+
+- [ ] Should this issue be added to the A11y Statement if it cannot be resolved soon?

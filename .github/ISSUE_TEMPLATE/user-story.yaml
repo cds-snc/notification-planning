@@ -1,8 +1,6 @@
 name: "User story"
 description: "User story card template"
 title: "User story" 
-
-
 body:
   - type: dropdown
     id: story-type
@@ -17,7 +15,7 @@ body:
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: problem-stmt
     attributes:
       label: Problem statement
@@ -25,35 +23,35 @@ body:
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: why
     attributes:
       label: WHY are we building?
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: what
     attributes:
       label: WHAT are we building?
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: value_created
     attributes:
       label: VALUE created by our solution
     validations:
       required: true
 
- - type: textarea
+  - type: textarea
     id: supporting_docs
     attributes:
       label: Paste, drop or click to add files like support tickets, journey maps or screenshots
     validations:
       required: true
- 
-- type: textarea
+
+  - type: textarea
     id: acceptance_criteria
     attributes:
       label: Acceptance Criteria
@@ -61,7 +59,7 @@ body:
     validations:
       required: true
 
-- type: checkboxes
+  - type: checkboxes
     id: checklist
     attributes:
       label: Checklist

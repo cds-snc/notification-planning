@@ -1,0 +1,83 @@
+name: User story
+description: User story card template
+title: "User story" 
+
+
+body:
+  - type: dropdown
+    id: story-type
+    attributes:
+      label: What type of user story is it?
+      options:
+        - Client need (non-dev)
+        - Client need (dev)
+        - Notify admin need
+        - Support team need
+        - Business need
+    validations:
+      required: true
+
+ - type: textarea
+    id: problem-stmt
+    attributes:
+      label: Problem statement
+      description: As a [user], I need to be able to do X, so that I can achieve Y outcome
+    validations:
+      required: true
+
+ - type: textarea
+    id: why
+    attributes:
+      label: WHY are we building?
+    validations:
+      required: true
+
+ - type: textarea
+    id: what
+    attributes:
+      label: WHAT are we building?
+    validations:
+      required: true
+
+ - type: textarea
+    id: value_created
+    attributes:
+      label: VALUE created by our solution
+    validations:
+      required: true
+
+ - type: textarea
+    id: supporting_docs
+    attributes:
+      label: Paste, drop or click to add files like support tickets, journey maps or screenshots
+    validations:
+      required: true
+ 
+- type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: Given some context, when (X) action occurs, then (Y) outcome is achieved
+    validations:
+      required: true
+
+- type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Cypress UI tests if needed
+        - label: Generate appropriate log messages so that executions of this feature can be tracked
+        - label: Can misuse of this feature cause harm? If yes, create an alert
+        - label: Does the feature change our Information Architecture? If so, update the Sitemap in En/Fr
+        - label: Update the status of related findings, insights, and hypotheses on the Research Airtable
+        - label: Once change/fix/feature is implemented, link relevant Airtable records to design artifacts (Figma)
+        - label: New Features post if new functionality can be promoted
+
+  - type: textarea
+    id: qa_steps
+    attributes:
+      label: QA Steps
+      description: Describe the test scenarios and how to go through them for this feature
+    validations:
+      required: true

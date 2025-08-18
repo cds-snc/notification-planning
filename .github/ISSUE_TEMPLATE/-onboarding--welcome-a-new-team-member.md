@@ -27,6 +27,11 @@ Read through these links and check off items.
 - [ ] [Types of documentation](https://docs.google.com/spreadsheets/d/1sondKNE4bBRN8D6CEYx138vpHVojfOsO71mAz6qGwqs/edit#gid=0)
 - [ ] [Research repository walkthrough](https://drive.google.com/file/d/19Fruwh3w0aT5Mh-juMv_QEYLaNvQSgSv/view?usp=sharing)
 
+### Core team specifics
+
+- [ ] [Definition of Ready](https://docs.google.com/document/d/1yblWG0oTx_lWvygYnCMoIRN9v3z-PGRyZd90tPhz5DU/edit?tab=t.0)
+- [ ] [Definition of Done](https://docs.google.com/document/d/1qM5UXB01eNAUwujpWNeDPTXivcEn6KXfBeB_Jf476SI/edit?tab=t.0)
+
 ## Learn about stakeholders
 
 - [ ] [Platform Strategy FY24-25](https://docs.google.com/presentation/d/1I79v_vi-Riz5mM0O6-Hj6gBjz4iFhxl5bBPv1KhNV64/edit)

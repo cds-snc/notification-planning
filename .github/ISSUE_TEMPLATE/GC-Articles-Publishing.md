@@ -43,6 +43,7 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 - [ ]  Create or update translation to the page
 - [ ]  Link translations by choosing an assigned translation
 - [ ]  If new page, save as draft
+- [ ]  if new page, ensure this is added to our UI test suite
 - [ ]  If existing page, update the page
 - [ ]  Post page in Slack for last minute reviews
 - [ ]  On staging: Clear the cache through GC Notify's admin panel

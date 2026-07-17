@@ -33,20 +33,46 @@ Given some context, when (X) action occurs, then (Y) outcome is achieved
 - [ ] Tested in a realistic production scenario
 
 ## GC Articles Publish checklist
-- [ ]  Supporting feature is released and unflagged
-- [ ]  Create or update slug
-- [ ]  Page content and slug is translated
-- [ ]  Document links to and from the page
-- [ ]  Add page slug and title to [inventory](https://docs.google.com/document/d/1N6B4fSwoM40m-pDLI70BvLfL7O0n04ndyAXYaIwNbNw/edit)
-- [ ]  If new page, add WAF rule
-- [ ]  Create new page or update existing page content
-- [ ]  Create or update translation to the page
-- [ ]  Link translations by choosing an assigned translation
-- [ ]  If new page, save as draft
-- [ ]  if new page, ensure this is added to our UI test suite
-- [ ]  If existing page, update the page
-- [ ]  Post page in Slack for last minute reviews
-- [ ]  On staging: Clear the cache through GC Notify's admin panel
-- [ ]  On staging: Check links, images and language toggle
-- [ ]  Give a heads up to the app-team channel once ready to publish
-- [ ]  On staging and production: Clear the cache through GC Notify's admin panel
+### Update to a public page
+- [] Supporting feature is released and unflagged
+- [] Page content is translated
+- [] Update to a public page with new slug
+- [] Supporting feature is released and unflagged
+- [] Update slug
+- [] Page content and slug is translated
+- [] Create other language and link translations
+- [] Ping devs to avoid broken links (new slugs)
+- [] Ping devs to update WAF rules
+- [] Ping devs to add slug to the UI test suite
+### New public page
+- [] Supporting feature is released and unflagged
+- [] Create slug
+- [] Page content and slug is translated
+- [] Create other language and link translations
+- [] Ping devs to avoid broken links (new slug)
+- [] Ping devs to update WAF rules
+- [] Ping devs to add slug to the UI test suite
+### Add an article to the new features page
+- [] Supporting feature is released and unflagged
+- [] Content is translated
+- [] Create other article in the other language
+### Add an article to the status page
+- [] Content is translated
+- [] Create other article in the other language
+### Archiving a policy page (Combination of Update and New pages)
+- [] Consult Policy or PM to validate archiving
+- [] Content is translated
+- [] Create slug for the archived version
+- [] Archived slug is translated
+- [] Create other language and link translations
+- [] Ping devs to avoid broken links (new slug)
+- [] Ping devs to update WAF rules
+- [] Ping devs to add slug to the UI test suite
+### Previewing content on a new page (recommended if working on a complex layout)
+- [] Set the slug to ‘_preview_’ + your choice of slug
+### Post publishing checklist
+- [] On staging: Clear the cache through GC Notify's admin panel
+- [] On staging: Check links, images and language toggle
+- [] Ping someone with the staging links to the updated pages for QA
+- [] On production: Clear the cache through GC Notify's admin panel
+

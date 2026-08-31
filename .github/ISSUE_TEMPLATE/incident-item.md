@@ -2,7 +2,7 @@
 name: Incident Action Item
 about: Track an action item resulting from an incident post-mortem
 title: '[Incident] '
-labels: ''
+labels: 'Incident'
 assignees: ''
 
 ---

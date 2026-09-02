@@ -68,7 +68,6 @@ Examples:
 - Documentation / runbooks updated (if needed)
 - Monitoring/alerts adjusted (if needed)
 - Risk owners confirm closure
-- Mark the work as done in the incident post-mortem google doc
 
 ---
 
